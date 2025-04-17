@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+numpy
+tensorflow-datasets
+tensorflow==2.9.1
+protobuf==3.20.3    
